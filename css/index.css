@@ -1,0 +1,18 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+     backface-visibility:hidden;
+    -webkit-backface-visibility:hidden;
+     overflow: hidden;
+    -ms-content-zooming: none;
+    -ms-touch-action:none;
+}
+@font-face {
+    font-family: 'Sketch';
+    src: url('../fonts/TENOCLOCK-Regular.eot');
+    src: url('../fonts/TENOCLOCK-Regular.eot') format('embedded-opentype'),
+         url('../fonts/TENOCLOCK-Regular.woff') format('woff'),
+         url('../fonts/TENOCLOCK-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
